@@ -1,0 +1,150 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+    "correct_answer": "The Flash",
+    "incorrect_answers": ["The Arrow", "Black Canary", "Daredevil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+    "correct_answer": "Wilson",
+    "incorrect_answers": ["Carson", "Jackson", "Willy"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "Which of these is the name of a cut enemy from &quot;Half-Life 2&quot;?",
+    "correct_answer": "Hydra",
+    "incorrect_answers": ["Cthulu", "Spike", "Tremor"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?",
+    "correct_answer": "Dirty Deeds Done Dirt Cheap",
+    "incorrect_answers": [
+      "Filthy Acts Done For A Reasonable Price",
+      "Civil War",
+      "God Bless The USA"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Music",
+    "question": "What is the first track on the Dave Matthews Band album &quot;Before These Crowded Streets&quot;?",
+    "correct_answer": "Pantala Naga Pampa",
+    "incorrect_answers": [
+      "Stay (Wasting Time)",
+      "Rapunzel",
+      "Don&#039;t Drink The Water"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which German city is located on the River Isar?",
+    "correct_answer": "Munich",
+    "incorrect_answers": ["Berlin", "Hamburg", "Dortmund"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In the &quot;Portal&quot; series, who was Cave Johnson&#039;s personal assistant?",
+    "correct_answer": "Caroline",
+    "incorrect_answers": ["Heather", "Melissa", "Jane"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Which song on Daft Punk&#039;s &quot;Random Access Memories&quot; features Pharrell Williams?",
+    "correct_answer": "Get Lucky",
+    "incorrect_answers": [
+      "Doin&#039; It Right",
+      "Instant Crush",
+      "The Game of Love"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Which Russian author wrote the epic novel War and Peace?",
+    "correct_answer": "Leo Tolstoy",
+    "incorrect_answers": [
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Film",
+    "question": "What did the first moving picture depict?",
+    "correct_answer": "A galloping horse",
+    "incorrect_answers": [
+      "A woman in a dress",
+      "A man walking",
+      "A crackling fire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+    "correct_answer": "Der Riese",
+    "incorrect_answers": ["Tranzit", "Call Of The Dead", "Shi No Numa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "correct_answer": "Jumping over an office chair",
+    "incorrect_answers": [
+      "Jumping backwards over a desk",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+    "correct_answer": "Taiwan",
+    "incorrect_answers": [
+      "United States",
+      "Germany",
+      "China (People&#039;s Republic of)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+    "correct_answer": "18",
+    "incorrect_answers": ["13", "16", "15"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "When was Tesla founded?",
+    "correct_answer": "2003",
+    "incorrect_answers": ["2008", "2005", "2007"]
+  }
+]
